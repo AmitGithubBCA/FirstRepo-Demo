@@ -1,4 +1,4 @@
 # FirstRepo-Demo
 This is my first Git Repository.
 <br>
-Author - Amit Gupta
+Author - Amit Gupta Developer
